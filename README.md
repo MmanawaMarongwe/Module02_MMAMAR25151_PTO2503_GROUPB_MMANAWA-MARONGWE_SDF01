@@ -75,23 +75,24 @@
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+	•	✅ Master version control with Git and GitHub
+	•	🎨 Get creative with HTML & CSS, then unlock logic with JavaScript
+	•	🤝 Start collaborating on open-source or community projects
+	•	🚀 Build real apps that solve real problems
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[GitHub](https://github.com/MmanawaMarongwe)  
+[LinkedIn](https://www.linkedin.com/in/mmanawa-thato-marongwe-046131115/)  
+📧 Email: [mashalammanawa@gmail.com](mailto:mashalammanawa@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+🧩 I love connecting the dots—whether it’s helping someone fix an issue or piecing together code to make something new.
 
 ---
 
