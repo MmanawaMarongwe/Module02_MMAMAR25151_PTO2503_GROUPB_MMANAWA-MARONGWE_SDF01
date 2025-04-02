@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# 👩‍💻 Hello World: Mmanawa’s Path to Web Dev
 
 # 👋 Hi, I'm Mmanawa Thato Marongwe
 
