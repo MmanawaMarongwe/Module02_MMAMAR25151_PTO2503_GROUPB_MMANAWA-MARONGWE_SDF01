@@ -53,6 +53,26 @@
 🔹 Technologies: HTML, CSS
 🔹 Status: ⏳ In Progress
 
+## 📌 Projects outside CodeSpace
+
+📌 Projects I’ve created through other platforms and learning journeys.
+
+3️⃣ Weather App
+
+🔹 Description: A weather app that displays current weather for any city using live API data.
+🔹 Technologies: HTML, CSS, JavaScript, API integration
+🔹 Status: ✅ Completed
+🔹 Link: [🌦️ View Project](https://regal-entremet-b5a03b.netlify.app/)
+
+4️⃣ World Clock
+
+🔹 Description: A digital clock that shows the current time in different cities around the world, in real time.
+🔹 Technologies: HTML, CSS, JavaScript, Moment.js and Date objects
+🔹 Status: ✅ Completed
+🔹 Link: [🕒 View Project](https://world-clock-project-mt.netlify.app/)
+
+---
+
 ## 📚 Learning Goals
 
 - 🚀 Get comfortable using Git and GitHub
