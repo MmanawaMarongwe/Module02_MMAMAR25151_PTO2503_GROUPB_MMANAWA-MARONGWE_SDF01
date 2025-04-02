@@ -12,7 +12,7 @@
 	•	📚 With a background in IT Support and Health Tech, I’m excited to merge logic with creativity in development.
 	•	🔍 I’m passionate about problem-solving and love turning complex challenges into simple, practical solutions.
 	•	🌍 My goal? To become an implementation consultant, solve problems and contribute to impactful projects..
-    
+
 ---
 
 ## 🛠️ Tech Stack
@@ -31,11 +31,10 @@
 ---
 
 ## 🏆 Soft Skills
-
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+	•	🤝 Team Player with Customer Service Experience
+	•	🗣️ Communicates Technical Stuff Simply
+	•	🎯 Detail-Oriented & Always Curious
+	•	🌀 Adapts Easily & Loves to Learn
 
 ---
 
