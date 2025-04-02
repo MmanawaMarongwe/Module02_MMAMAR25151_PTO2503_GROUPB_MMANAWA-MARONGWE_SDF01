@@ -1,18 +1,18 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Mmanawa Thato Marongwe
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱 Aspiring Software Developer | 🎯 Future Project Manager | 🛠️ Tech Explorer from South Africa
 
 ---
 
-## 🎯 About Me
-
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
-
+ ## 🎯 About Me
+	•	🧠 Currently learning Git and GitHub as my foundation before jumping into code.
+	•	💻 My next steps include HTML, CSS, and JavaScript.
+	•	📚 With a background in IT Support and Health Tech, I’m excited to merge logic with creativity in development.
+	•	🔍 I’m passionate about problem-solving and love turning complex challenges into simple, practical solutions.
+	•	🌍 My goal? To become an implementation consultant, solve problems and contribute to impactful projects..
+    
 ---
 
 ## 🛠️ Tech Stack
