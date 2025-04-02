@@ -38,22 +38,20 @@
 
 ---
 
-## 📌 Projects
+## 📌 Projects in CodeSpace
 
-Here are some of my milestone projects (to be updated as I progress!):
+📌 A collection that will grow as I grow—watch this space!
 
-### **1️⃣ First GitHub Project**
+1️⃣ First GitHub Project
 
-🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+🔹 Description: My first-ever repository! Practiced commits, pushes, and pull requests.
+🔹 Status: ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+2️⃣ Personal Portfolio Website (Coming Soon!)
 
-🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
-🔹 **Status:** ⏳ In Progress
-
----
+🔹 Description: A portfolio to showcase who I am and what I build.
+🔹 Technologies: HTML, CSS
+🔹 Status: ⏳ In Progress
 
 ## 📚 Learning Goals
 
